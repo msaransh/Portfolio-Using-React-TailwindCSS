@@ -23,7 +23,7 @@ const Work_Exp = () => {
             </p>
             <div className="flex flex-col justify-between items-baseline">
               <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
-                06/2023 - Present
+                06/2023 - 07/2023
               </h3>
             </div>
           </div>
