@@ -24,7 +24,7 @@ const Home = () => {
             </p>
             <div>
               <a
-                href="https://drive.google.com/file/d/1dqXdMjZkG3Dy5fL1Ad__3CfZhbD_KksU/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Pj1GvVzdo2jYFtB_nzPTUYLoExhZcOou/view?usp=sharing"
                 target="_blank"
                 className="group text-white w-fit px-4 py-2 my-1 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg duration-300 hover:scale-105 "
               >
