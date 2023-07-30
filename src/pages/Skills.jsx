@@ -1,15 +1,12 @@
 import React from "react";
-
 import html from "../images/html.png";
 import css from "../images/css.png";
 import javascript from "../images/javascript.png";
 import reactImage from "../images/react.png";
 import tailwind from "../images/tailwind.png";
 import java from "../images/java.png"
-// import cpp from "../images/cpp.png";
-// import python from "../images/python.png";
-// import photoshop from "../images/Photoshop.png";
-// import figma from "../images/figma.png";
+import python from "../images/python.png";
+
 
 const Skills = () => {
   let techs = [
@@ -49,7 +46,12 @@ const Skills = () => {
       title: "JAVA",
       style: "shadow-blue-500",
     },
-  
+    {
+      id: 7,
+      src: python,
+      title: "Python",
+      style: "shadow-blue-500",
+    },
   ];
 
   return (
