@@ -25,6 +25,15 @@ const Work_Exp = () => {
               <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 06/2023 - 07/2023
               </h3>
+              <li className="text-sm md:text-base pb-2">
+              Proficient in React libraries: Redux, Axios, MUI, React Router DOM.
+              </li>
+              <li className="text-sm md:text-base pb-2">
+              Created responsive portfolio website showcasing skills using these libraries.
+              </li>
+              <li className="text-sm md:text-base pb-2">
+              Utilized Git for version control to maintain organized and accessible code.
+              </li>
             </div>
           </div>
 
@@ -42,11 +51,11 @@ const Work_Exp = () => {
                 2/2023 - 3/2023
               </h3>
               <li className="text-sm md:text-base pb-2">
-                Worked on Industry project
+              Developed industry projects using HTML, CSS, and JavaScript, including a Student-Teacher Booking Appointment System.
               </li>
 
               <li className="text-sm md:text-base pb-2">
-                HTML, CSS, JavaScript, JQuery, and Firebase
+              Collaborated with trainees of the companies to expand skills and knowledge in web development.
               </li>
             </div>
           </div>
