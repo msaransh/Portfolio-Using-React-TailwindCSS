@@ -14,17 +14,36 @@ const Certifications = () => {
 
           <div>
             <h2 className="pt-10 text-xl md:text-3xl font-bold">
-              React
+              Build an E-Commerce platform using React Masterclass
             </h2>
+
+            <div className="flex flex-col justify-between items-baseline">
+              <h3 className="pt-2 pb-5 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+                Scaler
+              </h3>
+
+              <br />
+              <a
+                className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer"
+                href={
+                  "https://drive.google.com/file/d/1A0fVuKzd8FTPL-uNN3eceAJWbDeuC0he/view?usp=sharing"
+                }
+                target="_blank"
+              >
+                View Credentials
+              </a>
+            </div>
+          </div>
+
+          <div>
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">React</h2>
 
             <div className="flex flex-col justify-between items-baseline">
               <h3 className="pt-2 pb-5 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 ThinkNext Technologies
               </h3>
 
-              <ul className="text-sm md:text-base">
-                Credential ID: 634680
-              </ul>
+              <ul className="text-sm md:text-base">Credential ID: 634680</ul>
               <br />
               <a
                 className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer"
@@ -37,7 +56,6 @@ const Certifications = () => {
               </a>
             </div>
           </div>
-
 
           <div>
             <h2 className="pt-10 text-xl md:text-3xl font-bold">
