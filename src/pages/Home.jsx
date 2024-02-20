@@ -18,13 +18,13 @@ const Home = () => {
               A Front-End Developer
             </div>
             <p className="sm:text-lg text-justify text-gray-500 py-8 max-w-md">
-              I have 1 years of experience building and designing website.
-              I love to work on web applications using technologies
-              like HTML, CSS, JavaSCript, ReactJS etc.
+              I have 1 years of experience building and designing website. I
+              love to work on web applications using technologies like HTML,
+              CSS, JavaSCript, ReactJS etc.
             </p>
             <div>
               <a
-                href="https://drive.google.com/file/d/1Pj1GvVzdo2jYFtB_nzPTUYLoExhZcOou/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Pqa4XV18s9CTFaKy3cstC6Q_fxrg_D2d/view?usp=sharing"
                 target="_blank"
                 className="group text-white w-fit px-4 py-2 my-1 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg duration-300 hover:scale-105 "
               >
