@@ -6,6 +6,10 @@ import reactImage from "../images/react.png";
 import tailwind from "../images/tailwind.png";
 import java from "../images/java.png";
 import python from "../images/python.png";
+import amazon from "../images/Amazon_Web_Services-Logo.wine.png";
+import jenkins from "../images/58480984cef1014c0b5e4902.png";
+import cicd from "../images/pngegg.png";
+import linux from "../images/linux-22621.png";
 
 const Skills = () => {
   let techs = [
@@ -31,25 +35,49 @@ const Skills = () => {
       id: 4,
       src: reactImage,
       title: "React",
-      style: "shadow-sky-500",
+      style: "shadow-blue-500",
     },
     {
       id: 5,
       src: tailwind,
       title: "Tailwind",
-      style: "shadow-sky-300",
+      style: "shadow-yellow-600",
     },
     {
       id: 6,
       src: java,
       title: "JAVA",
-      style: "shadow-blue-500",
+      style: "shadow-yellow-500",
     },
     {
       id: 7,
       src: python,
       title: "Python",
-      style: "shadow-blue-500",
+      style: "shadow-orange-500",
+    },
+    {
+      id: 1,
+      src: amazon,
+      title: "AWS",
+      style: "shadow-blue-600",
+    },
+    {
+      id: 1,
+      src: jenkins,
+      title: "Jenkins",
+      style: "shadow-red-600",
+    },
+    {
+      id: 1,
+      src: cicd,
+      title: "CI/CD",
+      style: "shadow-blue-600",
+    },
+    {
+      id: 1,
+      src: linux,
+      title: "Linux",
+      style: "shadow-red-600",
     },
   ];
 
