@@ -4,9 +4,8 @@ import css from "../images/css.png";
 import javascript from "../images/javascript.png";
 import reactImage from "../images/react.png";
 import tailwind from "../images/tailwind.png";
-import java from "../images/java.png"
+import java from "../images/java.png";
 import python from "../images/python.png";
-
 
 const Skills = () => {
   let techs = [

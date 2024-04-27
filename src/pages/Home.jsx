@@ -15,12 +15,12 @@ const Home = () => {
               I'm Saransh
             </h1>
             <div className="text-5xl py-2 font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
-              A Front-End Developer
+              AWS Cloud Devops Engineer
             </div>
             <p className="sm:text-lg text-justify text-gray-500 py-8 max-w-md">
-              I have 1 years of experience building and designing website. I
-              love to work on web applications using technologies like HTML,
-              CSS, JavaSCript, ReactJS etc.
+              I have 2 years of experience building and designing website. I I
+              also gained exposure to cloud computing, AWS, Sonarqube, and CI/CD
+              tools and practices.
             </p>
             <div>
               <a

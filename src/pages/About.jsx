@@ -14,20 +14,22 @@ const About = () => {
         </div>
         <br />
         <p className="text-base md:text-xl text-justify pl-1 pr-4 pt-10 leading-loose">
-          I'm Saransh Mehta, pursuing my final year B.Tech in computer science
-          from Jaypee University of Information Technology, Waknaghat, Solan,
-          Himachal Pradesh. I have already completed two internship of web
-          development and React Js.
+          I am Saransh, a final year B.Tech student in computer science from
+          Jaypee University of Information Technology. I have a passion for
+          creating captivating digital experiences as a Front-End Developer,
+          with a mastery of React.js and a solid grounding in JavaScript, HTML,
+          and CSS.
         </p>
 
         <p className="text-base md:text-xl text-justify pl-1 pr-4 pt-10 leading-loose">
-          The skills I possess would make me an ideal fit for the role, as I
-          have a good academic background and a positive attitude which surely
-          helps me fit in different environments. I enjoy working as part of a
-          team, but I am equally comfortable working on my own initiative. My
-          long-term career goals are to work with a company that offers
-          challenges and develops employees, and this internship would help give
-          me the knowledge and experience I need to achieve this
+          I have completed two internships in web development and React JS,
+          where I contributed to the design and development of responsive and
+          user-friendly websites and applications. I also gained exposure to
+          cloud computing, AWS, Sonarqube, and CI/CD tools and practices. I am
+          eager to learn from industry experts and apply my skills to real-world
+          projects that solve problems and create value. My long-term career
+          goal is to work with a company that offers challenges and
+          opportunities for growth and development.
         </p>
       </div>
     </div>
