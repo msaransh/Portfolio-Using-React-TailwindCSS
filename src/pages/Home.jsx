@@ -18,7 +18,7 @@ const Home = () => {
               AWS Cloud Devops Engineer
             </div>
             <p className="sm:text-lg text-justify text-gray-500 py-8 max-w-md">
-              I have 2 years of experience building and designing website. I
+              I have 2 years of experience building and designing website.And I
               also gained exposure to cloud computing, AWS, Sonarqube, and CI/CD
               tools and practices.
             </p>
